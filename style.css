@@ -1,0 +1,36 @@
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+
+#cardapiodepizzas{
+    background-color:rgb(243, 45, 45); font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px;
+    color:rgb(250, 252, 122);}
+    
+
+    div{
+
+        text-align: center;
+    }
+
+    b{
+
+        text-align: center; font-size: 30px; font-family: Verdana, Geneva, Tahoma, sans-serif; padding: 400px; 
+    }
+
+    img{
+        border-radius: 45%;
+        position:relative;
+        left: 500px;
+        top: -10px;
+        width: 300px;
+    }
+
+    h1{
+
+        text-align: center;
+    }
+
+    body{
+
+        background-color: rgb(250, 241, 115);
+    }
