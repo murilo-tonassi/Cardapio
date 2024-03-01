@@ -23,4 +23,4 @@
  
 ## Autores 👥
 - [Murilo Tonassi](https://github.com/murilo-tonassi)
-- 
+- [Pamela Souza](https://github.com/PamelaSouzaSilva)
