@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 p{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
 
@@ -20,9 +24,9 @@ p{
     img{
         border-radius: 45%;
         position:relative;
-        left: 500px;
-        top: -10px;
-        width: 300px;
+        left: 515px;
+        top: -05px;
+        width: 280px;
     }
 
     h1{
@@ -32,5 +36,31 @@ p{
 
     body{
 
-        background-color: rgb(250, 241, 115);
+        background: linear-gradient(-450deg, #ff9b18, #edf769, #ff9b18)
     }
+    
+       
+
+.rodape{
+  /* border: solid 1px white; */
+  width: 1230px;
+}
+
+.coluna1{
+  width: 615px;
+  /* border: solid 1px white; */
+  text-align: justify;
+  font-size: 15px;
+}
+footer {
+  background-color:rgb(255, 46, 46);
+  padding: 50px;
+  color: aliceblue;
+  text-align: center;
+}
+a{
+  color:white;
+}
+.coluna2{
+  text-align:right;
+}
